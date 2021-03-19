@@ -6,7 +6,7 @@
 
 На тестирование затрачено: <3 часа>
 
-В результате тестирования выявлены следующие дефекты:
+### В результате тестирования выявлены следующие дефекты:
 - [Невалидный номер карты в Credit Card Number Validator] (https://github.com/SokovKirill/CreditCardNumberValidator/issues/1)
 - [Невалидный номер карты при вводе 19-тизначного значения] (https://github.com/SokovKirill/CreditCardNumberValidator/issues/2)
 - [Невалидный номер карты при вводе 14-тизначного значения] (https://github.com/SokovKirill/CreditCardNumberValidator/issues/3)
